@@ -6,3 +6,5 @@ main->最初の画面
 -slot.html
 
 
+aaaaaaaaaaaaaaaaaaaaa
+
